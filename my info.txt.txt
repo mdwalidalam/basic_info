@@ -2,3 +2,5 @@ Name:Md Walid Alam
 roll:106
 address:Munshipara
 college:REC
+session:2021-2022
+department:CSE
